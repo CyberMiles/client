@@ -1,0 +1,25 @@
+{
+  "name": "cybermiles-client",
+  "version": "0.0.1",
+  "description": "This project provides web3 extension, javascript-based console, and other dev client tools.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CyberMiles/client.git"
+  },
+  "keywords": [
+    "blockchain"
+  ],
+  "author": "Fred Chien<cfsghost@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/CyberMiles/client/issues"
+  },
+  "homepage": "https://github.com/CyberMiles/client#readme",
+  "dependencies": {
+    "basecoin": "^2.3.1"
+  }
+}
